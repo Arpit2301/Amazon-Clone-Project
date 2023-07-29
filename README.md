@@ -1,2 +1,3 @@
 # Amazon-Clone-Project
-I developed this Amazon Clone using HTML, CSS
+-Clone of Amazon.com website
+-I developed this responsive website using HTML, CSS
